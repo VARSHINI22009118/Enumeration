@@ -115,7 +115,9 @@ and issue appropriate commands
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
-The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
+#### The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server by issuing the VRFY, EXPN or RCPT TO commands. The goal of this script is to discover all the user accounts in the remote system.
+
+
 ![image](https://github.com/VARSHINI22009118/Enumeration/assets/119401150/dfe562f3-03e8-4df5-8cbb-253c6639fdfc)
 
 
